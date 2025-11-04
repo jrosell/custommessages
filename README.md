@@ -18,4 +18,4 @@ A simple, lightweight module that adds a multilingual custom message in the disp
 - Works with Hummingbird and classic themes.
 
 ## License
-MIT
+Creative Commons Zero v1.0 Universal.
